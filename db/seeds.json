@@ -1,16 +1,5 @@
 {
   "pokemons": [
-    {
-      "name": "charmander",
-      "height": 6,
-      "weight": 85,
-      "id": 1
-    },
-    {
-      "name": "ivysaur",
-      "height": 10,
-      "weight": 130,
-      "id": 2
-    }
+    
   ]
 }
